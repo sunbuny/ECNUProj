@@ -17,7 +17,7 @@
 订单处理服务使用了microservice-demo-catalog和microservice-demo-customer。用来接受用户的订单并处理之。其中使用了Ribbon来做负载均衡，使用Hystrix作为熔断器。
 ## 第二部分 系统构成
 系统由六个部分构成如下图所示：
-![图片标题](https://leanote.com/api/file/getImage?fileId=594f75f8ab64410fe5000f9a)
+![图片标题](https://github.com/sunbuny/ECNUProj/blob/master/pic/JIEGOU.png)
 ### API GATEWAY ZUUL
 ZUUL作为系统的处理所有外部请求的前门，他是一个在云平台上提供动态路由的一个框架。它包含了对请求的路由和过滤两个功能，其中路由功能负责将外部请求转发到具体的微服务实例上，是实现外部访问统一入口的基础；而过滤器功能则负责对请求的处理过程进行干预，是实现请求校验、服务聚合等功能的基础。
 也就是说用户的请求会被ZUUL转发到微服务实例上。

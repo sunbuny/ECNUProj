@@ -52,5 +52,5 @@ docker-compose up
 ### 访问
 待docker-compose up 启动完成后。
 打开浏览器访问http://127.0.0.1:8080/。可以看到整个项目的主页。
-http://127.0.0.1:8761/是Eureka的dashboard主页
-http://127.0.0.1:8989/hystrix 是turbine的主页
+ - http://127.0.0.1:8761/是Eureka的dashboard主页
+ - http://127.0.0.1:8989/hystrix 是turbine的主页
