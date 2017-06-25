@@ -1,0 +1,30 @@
+version: '2'
+services:
+  eureka:
+    image: sunbuny/microservice-demo-eureka-server
+    ports:
+      - "8761:8761"
+  customer:
+    image: sunbuny/microservice-demo-customer
+    links:
+     - eureka
+  catalog:
+    image: sunbuny/microservice-demo-catalog
+    links:
+     - eureka
+  order:
+    image: sunbuny/microservice-demo-order
+    links:
+     - eureka
+  zuul:
+    image: sunbuny/microservice-demo-zuul-server
+    links:
+     - eureka
+    ports:
+      - "8080:8080"
+  turbine:
+    image: sunbuny/microservice-demo-turbine-server
+    links:
+     - eureka
+    ports:
+      - "8989:8989"

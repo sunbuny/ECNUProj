@@ -1,0 +1,7 @@
+com/ecnu/microservice/catalog/CatalogTestApp.class
+com/ecnu/microservice/catalog/RepositoryTest.class
+com/ecnu/microservice/catalog/cdc/CatalogConsumerDrivenContractTest.class
+com/ecnu/microservice/catalog/CatalogWebIntegrationTest.class
+com/ecnu/microservice/catalog/cdc/CatalogClient$ItemPagedResources.class
+com/ecnu/microservice/catalog/cdc/Item.class
+com/ecnu/microservice/catalog/cdc/CatalogClient.class

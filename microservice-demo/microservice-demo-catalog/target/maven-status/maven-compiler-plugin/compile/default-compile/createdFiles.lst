@@ -1,0 +1,5 @@
+com/ecnu/microservice/catalog/ItemRepository.class
+com/ecnu/microservice/catalog/CatalogApp.class
+com/ecnu/microservice/catalog/SpringRestDataConfig.class
+com/ecnu/microservice/catalog/web/CatalogController.class
+com/ecnu/microservice/catalog/Item.class

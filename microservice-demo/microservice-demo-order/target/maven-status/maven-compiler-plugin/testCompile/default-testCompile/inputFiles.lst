@@ -1,0 +1,6 @@
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/customerstub/CustomerStub.java
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/logic/CatalogConsumerDrivenContractTest.java
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/catalogstub/CatalogStub.java
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/logic/CustomerConsumerDrivenContractTest.java
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/logic/OrderWebIntegrationTest.java
+/home/sun/src/spring/homework/microservice/microservice-demo/microservice-demo-order/src/test/java/com/ecnu/microservice/order/OrderTestApp.java

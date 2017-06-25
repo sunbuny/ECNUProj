@@ -1,0 +1,6 @@
+com/ecnu/microservice/order/customerstub/CustomerStub.class
+com/ecnu/microservice/order/OrderTestApp.class
+com/ecnu/microservice/order/logic/OrderWebIntegrationTest.class
+com/ecnu/microservice/order/logic/CustomerConsumerDrivenContractTest.class
+com/ecnu/microservice/order/logic/CatalogConsumerDrivenContractTest.class
+com/ecnu/microservice/order/catalogstub/CatalogStub.class

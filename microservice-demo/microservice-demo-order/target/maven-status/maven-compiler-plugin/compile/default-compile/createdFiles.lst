@@ -1,0 +1,13 @@
+com/ecnu/microservice/order/OrderApp.class
+com/ecnu/microservice/order/clients/CatalogClient$ItemPagedResources.class
+com/ecnu/microservice/order/logic/OrderController.class
+com/ecnu/microservice/order/clients/CustomerClient.class
+com/ecnu/microservice/order/clients/CatalogClient.class
+com/ecnu/microservice/order/logic/OrderService.class
+com/ecnu/microservice/order/logic/OrderRepository.class
+com/ecnu/microservice/order/logic/OrderLine.class
+com/ecnu/microservice/order/clients/Customer.class
+com/ecnu/microservice/order/clients/CustomerClient$CustomerPagedResources.class
+com/ecnu/microservice/order/logic/Order.class
+com/ecnu/microservice/order/clients/Item.class
+com/ecnu/microservice/order/logic/SpringRestDataConfig.class

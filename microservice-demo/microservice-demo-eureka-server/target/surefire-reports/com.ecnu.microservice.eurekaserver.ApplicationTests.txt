@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ecnu.microservice.eurekaserver.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.429 sec - in com.ecnu.microservice.eurekaserver.ApplicationTests

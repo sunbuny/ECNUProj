@@ -1,0 +1,19 @@
+server:
+  port: 8989
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://eureka:8761/eureka/    
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+  instance:
+    preferIpAddress: true
+    leaseRenewalIntervalInSeconds: 5
+    
+turbine:
+  aggregator:
+    clusterConfig: ORDER
+  appConfig: order
+
+  
