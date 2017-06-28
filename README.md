@@ -1,5 +1,6 @@
 # SpringCloud+Docker+Docker Comopose的微服务课程作业报告
 ## 成员：孙斌 蒋振斌 胡军 杨佩军
+分工：孙斌负责spring cloud项目的学习与搭建，蒋振斌负责Docker的学习与搭建，胡军负责spring cloud加docker的配合搭建，杨佩军负责项目文档的编写和项目测试
 说明：由于能力有限，我们组作业是来自与github上的一个开源代码的修改。该项目为：https://github.com/ewolff/microservice.git。
 ## 第一部分 微服务构成
 本项目中使用SpringCloud构建了三个微服务，构建了一个简单的网上商城。商城包含了用户注册功能，订单功能，商品浏览功能。这三个微服务分别是：
